@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Crawl-delay: 10
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Perplexitybot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+Host: https://www.nubritepainting.com
+Sitemap: https://www.nubritepainting.com/sitemap.xml

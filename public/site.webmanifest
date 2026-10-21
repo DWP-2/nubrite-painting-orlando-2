@@ -1,0 +1,22 @@
+{
+  "name": "NuBrite Painting of Orlando",
+  "short_name": "NuBrite Painting",
+  "description": "Trusted interior and exterior house painters in Orlando, FL. Free estimates, premium paints, fully insured.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a56db",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  darkMode: ["class"],
+  content: ["./src/**/*.{ts,tsx}"],
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['"DM Sans"', '"Open Sans"', "sans-serif"],
+        serif: ['"Source Serif 4"', "serif"],
+        mono: ['"IBM Plex Mono"', "monospace"],
+      },
+      colors: {
+        background: "hsl(0 0% 100%)",
+        foreground: "hsl(215 24% 12%)",
+        muted: "hsl(210 18% 95%)",
+        "muted-foreground": "hsl(210 12% 38%)",
+        card: "hsl(0 0% 100%)",
+        "card-foreground": "hsl(215 24% 12%)",
+        popover: "hsl(0 0% 100%)",
+        "popover-foreground": "hsl(215 24% 12%)",
+        border: "hsl(210 16% 89%)",
+        input: "hsl(210 16% 89%)",
+        ring: "hsl(35 92% 56%)",
+        primary: "hsl(210 78% 42%)",
+        "primary-hover": "hsl(210 78% 36%)",
+        "primary-foreground": "hsl(0 0% 100%)",
+        "primary-soft": "hsl(210 78% 42% / 0.12)",
+        secondary: "hsl(210 72% 32%)",
+        "secondary-hover": "hsl(210 72% 28%)",
+        "secondary-foreground": "hsl(0 0% 100%)",
+        "secondary-soft": "hsl(210 72% 32% / 0.14)",
+        tertiary: "hsl(35 92% 56%)",
+        "tertiary-hover": "hsl(35 92% 50%)",
+        "tertiary-foreground": "hsl(24 35% 14%)",
+        surface: "hsl(210 20% 98%)",
+        destructive: "hsl(0 72% 42%)",
+        "destructive-foreground": "hsl(0 0% 100%)",
+        success: "hsl(152 55% 34%)",
+        "success-soft": "hsl(152 55% 34% / 0.12)",
+        warning: "hsl(38 92% 52%)",
+        "warning-foreground": "hsl(28 45% 14%)",
+        footer: "hsl(215 24% 12%)",
+        "footer-foreground": "hsl(210 20% 98%)",
+        "footer-muted": "hsl(215 20% 18%)",
+        "footer-border": "hsl(210 14% 28%)",
+        "hero-foreground": "hsl(0 0% 100%)",
+      },
+      backgroundImage: {
+        "gradient-hero":
+          "linear-gradient(135deg, hsl(210 72% 32%) 0%, hsl(210 78% 42%) 55%, hsl(198 70% 40%) 100%)",
+        "gradient-surface":
+          "linear-gradient(180deg, hsl(210 20% 99%) 0%, hsl(210 24% 95%) 100%)",
+        "hero-overlay":
+          "linear-gradient(135deg, hsl(215 24% 12% / 0.80), hsl(210 72% 32% / 0.72))",
+      },
+      borderRadius: {
+        lg: "0.75rem",
+        xl: "1rem",
+        "2xl": "1.25rem",
+        "3xl": "1.5rem",
+      },
+      boxShadow: {},
+      transitionTimingFunction: {
+        "soft-in": "ease-in",
+        "soft-in-out": "ease-in-out",
+      },
+    },
+  },
+  plugins: [],
+};

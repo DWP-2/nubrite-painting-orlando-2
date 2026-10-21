@@ -1,0 +1,32 @@
+# NuBrite Painting of Orlando
+
+## About
+NuBrite Painting of Orlando is a professional residential and commercial painting company serving Orlando, FL and the greater Central Florida area.
+
+## Services
+- Interior house painting (walls, ceilings, trim, crown molding, kitchens, bathrooms, closets, stairwells)
+- Exterior house painting (full repaints, fascia, soffit, eaves, front doors, shutters, garage doors, fences, pressure washing, caulking, priming)
+- Commercial painting (interior offices, retail storefronts, exterior facades, boom lift high-reach, scissor lift, office & retail refresh)
+- Color consultations and finish recommendations
+- Move-in and pre-listing interior updates
+
+## Contact
+- Phone: (407) 429-5586
+- Location: Orlando, FL
+- Hours: Monday–Friday 8:00 AM – 6:00 PM, Saturday 9:00 AM – 2:00 PM
+
+## Key Facts
+- Fully insured
+- Free estimates
+- Warranty-backed work
+- Uses premium Sherwin-Williams and Benjamin Moore paint systems
+- Serves homeowners and commercial clients throughout Central Florida
+
+## Website
+https://www.nubritepainting.com/
+
+## Sitemap
+https://www.nubritepainting.com/sitemap.xml
+
+## Crawl Policy
+This site is open to all crawlers. See /robots.txt for details.
